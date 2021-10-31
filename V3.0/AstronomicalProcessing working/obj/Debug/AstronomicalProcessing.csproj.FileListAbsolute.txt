@@ -1,0 +1,90 @@
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\bruce\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\bruce\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+C:\Users\bruce\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+C:\Users\bruce\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+G:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.3\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\V2.4\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+C:\Users\P197681\OneDrive - TAFE\Desktop\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V2.6\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe.config
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\bin\Debug\AstronomicalProcessing.pdb
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.exe
+E:\Cert IV Programming\Assessments\Wednesday\Stewart Godwin\Assessment 2\BACKUP\V3.0\AstronomicalProcessing working\obj\Debug\AstronomicalProcessing.pdb
